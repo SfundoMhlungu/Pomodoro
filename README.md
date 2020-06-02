@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+running app can be found here: not good looking but working
+https://sfundomhlungu-built.glitch.me/
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
